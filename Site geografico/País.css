@@ -1,0 +1,64 @@
+h4{
+    margin-bottom: -2px;
+}
+
+button{
+    background-color: #04C9F4;
+    color: #fff;
+    border: none;
+    height: 31px;
+    width: 95px;
+}
+
+#BS{
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.Excluir{
+    background-color: #F40404;
+}
+
+#Ex{
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.Cancelar{
+    background-color:  #fff;
+}
+
+#CA{
+    text-align: center;
+    text-decoration: none;
+    color: #04C9F4;
+}
+
+h3{
+    color: #fff;
+    background-color: #04C9F4;
+}
+
+h4{
+    color: #fff;
+}
+
+#HC{
+    background-color: #D9D9D9;
+}
+
+.ConteinerMenu{
+    display: flex;
+    background-color: #D9D9D9;
+}
+
+.ConteinerPagina{
+    display: flex;
+    background-color: #E7E7E7;
+}
+
+#País{
+    color: #000;
+}

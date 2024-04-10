@@ -1,0 +1,68 @@
+header{
+   color: #04C9F4;
+   background-color: #fff;
+}
+
+body{
+   background-color: #e7e7e7;
+}
+
+button{
+    background-color: #04C9F4;
+    text-align: center;
+    width: 160px;
+    height: 44px;
+    border: #04C9F4;
+    justify-content: center;
+    text-align: center;
+}
+
+a{
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+}
+
+#ContainerLogin{
+    background-color: #d9d9d9;
+    width: 90vw;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.ContainerDisplay{
+    background-color: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+    height: 90vh;
+    align-items: center;
+    box-shadow: 0px 4px 4px 0px #000;
+}
+
+.img{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 40vw;
+    height: 10vh;
+    margin: 10px;
+}
+
+.Display{
+    width: 330px;
+    height: 46px;
+}
+
+.Item{
+    justify-content: center;
+    display: flex;
+}
+#Botao{
+    justify-content: center;
+    display: flex;
+}
